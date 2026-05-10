@@ -8,3 +8,4 @@
     - [翁法罗斯](HonkaiStarRail/Amphoreus)
         - [迷迷](HonkaiStarRail/Amphoreus/Mem.webp)
 - [绝区零](ZenlessZoneZero/)
+    - [Fairy](ZenlessZoneZero/Fairy.webp)
