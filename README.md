@@ -20,5 +20,7 @@
         - [流萤](HonkaiStarRail/StellaronHunters/Firefly.webp)
     - [翁法罗斯](HonkaiStarRail/Amphoreus)
         - [迷迷](HonkaiStarRail/Amphoreus/Mem.webp)
+        - [大昔涟](HonkaiStarRail/Amphoreus/Cyrene.webp)
+        - [小昔涟](HonkaiStarRail/Amphoreus/RippleOfThePastReverie.webp)
 - [绝区零](ZenlessZoneZero/)
     - [Fairy](ZenlessZoneZero/Fairy.webp)
